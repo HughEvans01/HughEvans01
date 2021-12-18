@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HughEvans01 and I'm a maker (and a software developer at IBM).
+- 👋 Hi, I’m @HughEvans01 and I'm a maker (and a software developer at dae.mn.
 - 👀 I’m interested in making things: right now I mostly make computer software (and furniture from recycled materials) but I'm always looking for new skills to learn and opportunities to make things.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m not looking to collaborate on anything right now but plan to do some more game jams in future.
